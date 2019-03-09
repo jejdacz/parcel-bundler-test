@@ -1,4 +1,6 @@
-@import "cluster/cluster.scss";
+@import "reset.css"; // parcel automaticaly installs Meyer's reset.css via NPM
+@import "./reset.css"; // imports reset.css file from root
+@import "./cluster/cluster.scss";
 
 $primary:red;
 
