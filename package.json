@@ -1,0 +1,19 @@
+{
+  "name": "parcel-bundler-test.github.io",
+  "version": "1.0.0",
+  "description": "parcel bundler test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jejdacz/parcel-bundler-test.github.io.git"
+  },
+  "author": "Marek Mego",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jejdacz/parcel-bundler-test.github.io/issues"
+  },
+  "homepage": "https://github.com/jejdacz/parcel-bundler-test.github.io#readme"
+}
