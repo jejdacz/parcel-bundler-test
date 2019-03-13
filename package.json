@@ -5,7 +5,9 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel ./src/index.html --public-url ./",
+    "clear":"rm -f ./dist/*",
+    "start": "npm run clear && parcel ./src/index.html --public-url ./",
+    "build": "npm run clear && parcel build ./src/index.html --public-url ./",
     "deploy": "gh-pages -d dist"
   },
   "repository": {

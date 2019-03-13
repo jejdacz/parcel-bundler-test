@@ -1,1 +1,0 @@
-{"version":3,"sources":["fn.js","script.js"],"names":["fn","console","log"],"mappings":";;ACAA;;;;AAEA;ADFA,IAAMA,EAAE,GAAG,SAALA,EAAK;AAAA,SAAMC,OAAO,CAACC,GAAR,CAAY,aAAZ,CAAN;AAAA,CAAX;;eACeF","file":"script.75da7f30.js","sourceRoot":"../src","sourcesContent":["const fn = () => console.log('fn launched');\nexport default fn;","import fn from \"./fn\";\n\nfn();"]}
