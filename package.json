@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jejdacz/parcel-bundler-test#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.0",
+    "posthtml-include": "^1.2.0",
     "sass": "^1.17.2"
   },
   "dependencies": {
